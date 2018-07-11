@@ -21,4 +21,4 @@ branches:
   only:
     - hexo 
   global:
-    - github.com/zhengkd95/zhengkd95.github.io.git
+    - GH_ref: github.com/zhengkd95/zhengkd95.github.io.git
