@@ -77,7 +77,4 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: https://zhengkd95:athosage1202@github.com/zhengkd95/zhengkd95.github.io.git
-  branch: hexo
-  message: hexo deploy
+  type: 
