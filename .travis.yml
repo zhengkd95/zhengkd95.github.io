@@ -15,7 +15,7 @@ after_script:
   - git config user.email "zkd17@mails.tsinghua.edu.cn"
   - git add .
   - git commit -m "travis ci auto build"
-  - git push --force --quiet https://${personal_access_token}@$GH_ref master
+  - git push --force --quiet "https://${personal_access_token}@$GH_ref" master:master
 
 branches:
   only:
