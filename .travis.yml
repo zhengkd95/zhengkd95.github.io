@@ -1,0 +1,24 @@
+language: node_js
+node_js: stable
+
+install:
+  - npm install 
+  
+script:
+  - hexo cl
+  - hexo g
+
+after_script:
+  - cd ./public
+  - git init
+  - git config user.name "zhengkd95"
+  - git config user.email "zkd17@mails.tsinghua.edu.cn"
+  - git add --all .
+  - git commit -m "travis ci auto build"
+  - git push --force --quiet https://${personal_access_token}@GH_ref master
+
+branches:
+  only:
+    - hexo 
+  global:
+    - github.com/zhengkd95/zhengkd95.github.io.git
