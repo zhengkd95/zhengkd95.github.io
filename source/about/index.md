@@ -17,6 +17,7 @@ My research interest focuses on the application of data analytic tools especiall
 - August 2017 - July 2022 (expected), Pursuing PhD, Dept. Electrical Engineering, Tsinghua University
 - August 2013 - July 2017, Bachelor of Engineering, Dept. Electrical Engineering, Tsinghua University
 	- GPA: 91/100, Ranking: 10/142
+	- Honored as "Excellent Graduate" by the City of Beijing and Tsinghua University
 - September 2014 - July 2017, Bachelor of Economics, School of Economics and Management, Tsinghua University
 
 # Publications
