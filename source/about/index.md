@@ -3,6 +3,7 @@ title: about Me
 date: 2018-07-11 20:07:07
 ---
 
+<img align="right" src="/image/me.png">
 # Kedi Zheng (郑可迪)
 - <i class="fa fa-university"></i> PhD student, Dept. Electrical Engineering, Tsinghua University
 - <i class="fa fa-envelope"></i> zkd17@mails.tsinghua.edu.cn
