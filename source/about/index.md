@@ -29,4 +29,4 @@ My research interest focuses on the application of data analytic tools especiall
 - Chinese and basic English
 
 # Essays
-- K. Zheng, "Proof of an impressing identity" Hesi, December, 2014 (11):24-25. [<i class="fa fa-file-pdf-o"></i> pdf](https://github.com/zhengkd95/zhengkd95.github.io/tree/hexo/source/pdf/hesi11.pdf/)
+- K. Zheng, "Proof of an impressing identity" Hesi, December, 2014 (11):24-25. [<i class="fa fa-file-pdf-o"></i> pdf](https://github.com/zhengkd95/zhengkd95.github.io/raw/hexo/source/pdf/hesi11.pdf/)
