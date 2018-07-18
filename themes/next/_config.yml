@@ -17,7 +17,7 @@ rss:
 #since: 2015
 
 # icon between year and author @Footer
-authoricon: heart
+authoricon: user
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
@@ -64,12 +64,12 @@ menu_icons:
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
   about: user
-  categories: th
-  schedule: calendar
-  tags: tags
+  #categories: th
+  #schedule: calendar
+  #tags: tags
   archives: archive
-  sitemap: sitemap
-  commonweal: heartbeat
+  #sitemap: sitemap
+  #commonweal: heartbeat
 
 
 # ---------------------------------------------------------------
@@ -104,17 +104,17 @@ social_icons:
   transition: false
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github
-  E-Mail: envelope
-  Google: google
-  Twitter: twitter
-  FB Page: facebook
-  VK Group: vk
-  Skype: skype
-  YouTube: youtube
-  Instagram: instagram
-  StackOverflow: stack-overflow
-  Weibo: weibo
+  GitHub: https://github.com/zhengkd95 || github
+  #E-Mail: envelope
+  #Google: google
+  #Twitter: twitter
+  #FB Page: facebook
+  #VK Group: vk
+  #Skype: skype
+  #YouTube: youtube
+  #Instagram: instagram
+  #StackOverflow: stack-overflow
+  #Weibo: weibo
 
 # Blog rolls
 #links_title: Links
@@ -142,7 +142,7 @@ toc:
 # http://creativecommons.org/
 # Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
 #creative_commons: by-nc-sa
-#creative_commons:
+creative_commons: by
 
 sidebar:
   # Sidebar Position, available value: left | right
@@ -306,7 +306,7 @@ font:
 # MathJax Support
 mathjax:
   enable: true
-  per_page: true
+  per_page: false
   cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
 
 # Han Support docs: https://hanzi.pro/
