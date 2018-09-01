@@ -22,7 +22,8 @@ My research interest focuses on the application of data analytic tools especiall
 - September 2014 - July 2017, Bachelor of Economics, School of Economics and Management, Tsinghua University
 
 # Publications
-- K. Zheng, Y. Wang, Q. Chen and Y. Li, "Electricity theft detecting based on density-clustering method," 2017 IEEE Innovative Smart Grid Technologies - Asia (ISGT-Asia), Auckland, 2017, pp. 1-6. DOI: 10.1109/ISGT-Asia.2017.8378347 [<i class="fa fa-external-link"></i> Link](https://ieeexplore.ieee.org/abstract/document/8378347/)
+- K. Zheng, Y. Wang, Q. Chen and Y. Li, "Electricity theft detecting based on density-clustering method", 2017 IEEE Innovative Smart Grid Technologies - Asia (ISGT-Asia), Auckland, 2017, pp. 1-6. DOI: 10.1109/ISGT-Asia.2017.8378347 [<i class="fa fa-external-link"></i> Link](https://ieeexplore.ieee.org/abstract/document/8378347/)
+- Q. Chen, K. Zheng, C. Kang, et al, "Detection Methods of Abnormal Electricity Consumption Behaviors: Review and Prospects", Automation of Electric Power Systems,2018,42(17):189-199. DOI: 10.7500/AEPS20171128013 [<i class="fa fa-external-link"></i> Link](http://www.aeps-info.com/aeps/ch/reader/view_abstract.aspx?file_no=20171128013)
 
 # Skills
 - Matlab/Python/R/TEX
