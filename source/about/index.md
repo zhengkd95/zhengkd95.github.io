@@ -16,6 +16,7 @@ My research interest focuses on the application of data analytic tools especiall
 
 # Education
 - August 2017 - July 2022 (expected), Pursuing PhD, Dept. Electrical Engineering, Tsinghua University
+	- GPA: 3.6/4.0, Ranking: 10/60
 - August 2013 - July 2017, Bachelor of Engineering, Dept. Electrical Engineering, Tsinghua University
 	- GPA: 91/100, Ranking: 10/142
 	- Honored as "Excellent Graduate" by the City of Beijing and Tsinghua University
@@ -24,7 +25,7 @@ My research interest focuses on the application of data analytic tools especiall
 # Publications
 - K. Zheng, Y. Wang, Q. Chen and Y. Li, "Electricity theft detecting based on density-clustering method", 2017 IEEE Innovative Smart Grid Technologies - Asia (ISGT-Asia), Auckland, 2017, pp. 1-6. DOI: 10.1109/ISGT-Asia.2017.8378347 [<i class="fa fa-external-link"></i> Link](https://ieeexplore.ieee.org/abstract/document/8378347/)
 - Q. Chen, K. Zheng, C. Kang, and Q. Xia, "Detection Methods of Abnormal Electricity Consumption Behaviors: Review and Prospects", Automation of Electric Power Systems,2018,42(17):189-199. DOI: 10.7500/AEPS20171128013 [<i class="fa fa-external-link"></i> Link](http://www.aeps-info.com/aeps/ch/reader/view_abstract.aspx?file_no=20171128013)
-- K. Zheng, Q. Chen, Y. Wang, C. Kang, and Q. Xia, "A Novel Combined Data-Driven Approach for Electricity Theft Detection", IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS, accepted for future publication [<i class="fa fa-external-link"></i> Link](https://ieeexplore.ieee.org/document/8481475/)
+- K. Zheng, Q. Chen, Y. Wang, C. Kang, and Q. Xia, "A Novel Combined Data-Driven Approach for Electricity Theft Detection", IEEE Transactions on Industrial Informatics, accepted for future publication [<i class="fa fa-external-link"></i> Link](https://ieeexplore.ieee.org/document/8481475/)
 
 # Skills
 - Matlab/Python/R/TEX
