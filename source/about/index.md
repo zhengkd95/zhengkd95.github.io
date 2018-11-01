@@ -10,7 +10,7 @@ date: 2018-07-11 20:07:07
 - <i class="fa fa-github"></i> [GitHub](https://github.com/zhengkd95)
 
 # Biography
-I am currently a PhD student in Dept. Electrical Engineering, Tsinghua University under the supervision of [Dr. Qixin Chen](http://www.eea.tsinghua.edu.cn/cn/faculties/chenqx). I received bachelor degrees of Electrical Engineering and Economics from Dept. Electrical Engineering and School of Economics and Management of Tsinghua University in 2017, respectively. I also serve as the mentor for students of class 2017 in Dept. Electrical Engineering since August, 2018. 
+I am currently a PhD student in Dept. Electrical Engineering, Tsinghua University under the supervision of [Dr. Qixin Chen](http://www.eea.tsinghua.edu.cn/cn/faculties/chenqx). I received bachelor degrees of Electrical Engineering and Economics from Dept. Electrical Engineering and School of Economics and Management of Tsinghua University in 2017, respectively. I also serve as the mentor for students of class 2017 in Dept. Electrical Engineering since August, 2018. I am a reviewer for journals including IEEE Transactions on Power Systems, and International Transactions on Electrical Energy Systems.
 
 My research interest focuses on the application of data analytic tools especially machine learning techniques in power systems, including graph structure analysis and flexible load modeling.
 
