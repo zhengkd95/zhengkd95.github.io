@@ -14,6 +14,8 @@ I am currently a PhD student in Dept. Electrical Engineering, Tsinghua Universit
 
 My research interest focuses on the application of data analytic tools especially machine learning techniques in power systems, including graph structure analysis and flexible load modeling.
 
+Please find my CV here. [<i class="fa fa-file-pdf-o"></i> pdf](https://github.com/zhengkd95/zhengkd95.github.io/raw/hexo/source/pdf/CV-Kedi_Zheng.pdf/)
+
 # Education
 - August 2017 - July 2022 (expected), Pursuing PhD, Dept. Electrical Engineering, Tsinghua University
 	- GPA: 3.6/4.0, Ranking: 10/60
