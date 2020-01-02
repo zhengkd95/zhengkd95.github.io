@@ -22,3 +22,12 @@ branches:
     - hexo 
   global:
     - GH_ref: github.com/zhengkd95/zhengkd95.github.io.git
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $personal_access_token  # Set in the settings page of your repository, as a secure variable
+  keep_history: true
+  on:
+    branch: master
+  fqdn: www.kedi-zheng.com
