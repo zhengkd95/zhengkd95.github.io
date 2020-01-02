@@ -13,6 +13,7 @@ after_script:
   - git init
   - git config user.name "zhengkd95"
   - git config user.email "zkd17@mails.tsinghua.edu.cn"
+  - echo 'ng-nj.com' > CNAME
   - git add .
   - git commit -m "travis ci auto build"
   - git push --force --quiet "https://${personal_access_token}@$GH_ref" master:master
@@ -23,11 +24,3 @@ branches:
   global:
     - GH_ref: github.com/zhengkd95/zhengkd95.github.io.git
 
-deploy:
-  provider: pages
-  skip_cleanup: true
-  github_token: $personal_access_token  # Set in the settings page of your repository, as a secure variable
-  keep_history: true
-  on:
-    branch: master
-  fqdn: www.kedi-zheng.com
