@@ -13,7 +13,7 @@ after_script:
   - git init
   - git config user.name "zhengkd95"
   - git config user.email "zkd17@mails.tsinghua.edu.cn"
-  - echo 'www.kedi-zheng.com' > CNAME
+  - echo 'kedi-zheng.com' > CNAME
   - git add .
   - git commit -m "travis ci auto build"
   - git push --force --quiet "https://${personal_access_token}@$GH_ref" master:master
